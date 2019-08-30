@@ -28,10 +28,7 @@ GitHub官网最下方[help](https://help.github.com)  支持[中文](https://hel
 ### 引用代码
 引用代码和高亮
 
-三个 
->\`
-符号,数字键1左边的 ~
-**英文,无shift**
+三个 \`符号,数字键1左边的 ~**(英文,无shift)**
 
 \```c++
 string s="引用c++代码"
