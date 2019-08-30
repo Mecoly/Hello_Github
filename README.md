@@ -5,8 +5,8 @@ My first github
 
   1.用于引导其他项目
 
-[study.md]
+[study.md](study.md)
 
   2.记录GitHub使用
   
-  GitHub使用(GitHub使用方法.md)
+  [GitHub使用](GitHub使用方法.md)
