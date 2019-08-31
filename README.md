@@ -5,9 +5,9 @@ My first github
 
 [python](https://github.com/Mecoly/Python)
   
-2.使用工具
+2.实用工具
 
-[notepad++](https://github.com/Mecoly/notepad++)
+[notepad++](notepad++.md)
 
 3.[软件下载](https://github.com/Mecoly/software-download)
 
