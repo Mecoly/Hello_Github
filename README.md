@@ -9,7 +9,9 @@ My first github
 
 [notepad++](notepad++.md)
 
-3.[软件下载](https://github.com/Mecoly/software-download)
+3.软件下载
+
+[QQ7.9Light]
 
 4.记录GitHub使用
 
