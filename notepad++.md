@@ -7,6 +7,7 @@
   * [卸载](#5-卸载)
 ### 1. 下载
 官网：https://notepad-plus-plus.org/
+
 [下载地址](https://notepad-plus-plus.org/download/)
 [官网安装版64bit](https://notepad-plus-plus.org/repository/7.x/7.7.1/npp.7.7.1.Installer.x64.exe)
 [官网安装版32bit](https://notepad-plus-plus.org/repository/7.x/7.7.1/npp.7.7.1.Installer.exe)
