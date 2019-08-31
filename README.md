@@ -15,4 +15,4 @@ My first github
 
 4.记录GitHub使用
 
-[GitHub使用心得](GitHub使用方法.md)
+[GitHub使用心得](Github使用方法.md)
