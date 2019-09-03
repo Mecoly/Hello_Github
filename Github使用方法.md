@@ -4,9 +4,9 @@
 GitHub官网最下方[help](https://help.github.com)  支持[中文](https://help.github.com/cn/)
 
 目录：
-
-* [Github.com](# Github.com)
-* [Github Desktop](# Desktop)
+* [md文件编写](#基本撰写和格式语法)
+* [Github.com](#Github.com)
+* [Github Desktop](#Desktop)
 ## 基本撰写和格式语法
 文件后缀：.md
 ### 换行\*
@@ -41,5 +41,10 @@ String s="引用c++代码"
 [Github主页](https://github.com)
 
 ### 图片
-\![image](image/git.png)
-![image](image/git.png)
+\![image](image/github.png)
+![image](image/github.png)
+## Github.com
+repository
+文件名前加path_name/可修改路径
+## Desktop
+
