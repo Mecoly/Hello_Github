@@ -41,7 +41,8 @@ String s="引用c++代码"
 [Github主页](https://github.com)
 
 ### 图片
-\![image](image/github.png)
+!\[image](image/github.png)
+
 ![image](image/github.png)
 ## Github.com
 repository
