@@ -2,6 +2,10 @@
 官方帮助文档:
 
 GitHub官网最下方[help](https://help.github.com)  支持[中文](https://help.github.com/cn/)
+
+目录：
+* [Github.com](# Github.com)
+* [Github Desktop](# Desktop)
 ## 基本撰写和格式语法
 文件后缀：.md
 ### 换行\*
@@ -9,12 +13,6 @@ GitHub官网最下方[help](https://help.github.com)  支持[中文](https://hel
 
 标题自动换行
 
-如下：
-
-引用文本(17)
-编辑时紧接下一行，但未换行(18)
-
-现在才换行(20)
 ### 标题
 #后空一格，接标题，#越多标题越小
 
@@ -31,11 +29,9 @@ GitHub官网最下方[help](https://help.github.com)  支持[中文](https://hel
 引用代码和高亮
 
 三个 \`符号,数字键1左边的 ~**(英文,无shift)**
-
 \```c++
 string s="引用c++代码"
 \```
-
 ```c++
 String s="引用c++代码"
 ```
