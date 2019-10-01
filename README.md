@@ -5,7 +5,7 @@ My first github
 
   * [编程](编程.md)
   * 编程语言
-    - [c++]()
+    - [c++](https://github.com/Mecoly/CPP)
   
 2. 实用工具
 
