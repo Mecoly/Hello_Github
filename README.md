@@ -15,7 +15,7 @@ My first github
 
 3. 软件下载
 
-[QQ7.9Light]
+[QQ7.9Light]()
 
 4. 记录GitHub使用
 
