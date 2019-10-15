@@ -8,6 +8,7 @@ My first github
     - [c++](https://github.com/Mecoly/CPP)
     - [Java](https://github.com/Mecoly/Java)
     - [Python](https://github.com/Mecoly/Python)
+    - [Mysql](https://github.com/Mecoly/Mysql)
 
 2. 实用工具
 
