@@ -6,7 +6,9 @@ My first github
   * [编程](编程.md)
   * 编程语言
     - [c++](https://github.com/Mecoly/CPP)
-  
+    - [Java](https://github.com/Mecoly/Java)
+    - [Python](https://github.com/Mecoly/Python)
+
 2. 实用工具
 
 [notepad++](notepad++.md)
