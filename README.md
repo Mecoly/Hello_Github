@@ -1,19 +1,14 @@
 # Hello_Github
 My first github
 
-1. 编程
+1. 笔记
 
-  * [编程](编程.md)
-  * 编程语言
-    - [c++](https://github.com/Mecoly/CPP)
-    - [Java](https://github.com/Mecoly/Java)
-    - [Python](https://github.com/Mecoly/Python)
-    - [Mysql](https://github.com/Mecoly/Mysql)
+[笔记](https://github.com/Mecoly/note)
 
-2. 实用工具
+2. 安装包
 
-[notepad++](notepad++.md)
+[安装包](https://github.com/Mecoly/files)
 
-3. 记录GitHub使用
+3. 项目
 
-[GitHub使用心得](Github使用方法.md)
+无
